@@ -1,0 +1,33 @@
+Last updated: 11/4/2025
+
+Purrkour is a casual mobile game. This policy describes what data the App may collect and how it is used.
+
+1. Information We Collect
+
+Automatically collected data: The App may collect basic diagnostic and usage information (such as device model, OS version, app version, and crash data) to improve stability.
+
+Advertising data: The App displays ads through third-party ad networks (e.g. Google AdMob). These networks may receive device information necessary to show ads.
+
+In-App Purchases: Purchases are processed by Apple/Google. We do not receive your full payment information.
+
+2. Advertising
+
+We use mobile advertising to support the App. We currently request non-personalized ads, which means ads should not be tailored using your activity across other apps and websites. The ad provider may still receive basic device and delivery information in order to serve the ad.
+
+For details on how Google AdMob handles data, please see Google’s policies.
+
+3. Data Storage
+
+The App stores game progress (like unlocked cats, score, and settings) locally on your device. This data is not sent to our own servers.
+
+4. Children
+
+The App is designed for a general audience and does not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided personal information, please contact us so we can delete it.
+
+5. Your Rights
+
+If you have questions about this policy or want us to delete information that could identify you, contact us at: raymond.y.he@gmail.com
+
+6. Changes to This Policy
+
+We may update this policy from time to time. Changes will be posted at this URL.
