@@ -4,7 +4,7 @@ Purrkour is a casual mobile game. This policy describes what data the App may co
 
 1. Information We Collect
 
-Automatically collected data: The App may collect basic diagnostic and usage information (such as device model, OS version, app version, and crash data) to improve stability.
+Automatically collected data: Purrkour does not collect any user or device data.
 
 Advertising data: The App displays ads through third-party ad networks (e.g. Google AdMob). These networks may receive device information necessary to show ads.
 
